@@ -9,3 +9,9 @@ This repo is a clone of [https://github.com/varadbhogayata/varadbhogayata.github
 
 
 <img width="1273" alt="Activity 2 #2" src="https://github.com/KareemElMaaddawy/KareemElMaaddawy.github.io/assets/83250816/82524885-1e09-4709-bb3a-57dd6b7f7f61">
+
+# Activity 3
+<img width="1259" alt="Activity 3 #1" src="https://github.com/KareemElMaaddawy/KareemElMaaddawy.github.io/assets/83250816/4bb39999-4c93-413c-bb93-f1cb2d4b38ae">
+
+<img width="1259" alt="Activity 3 #2" src="https://github.com/KareemElMaaddawy/KareemElMaaddawy.github.io/assets/83250816/120c62b7-6c01-457e-85ea-0c02154d2d80">
+
